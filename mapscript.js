@@ -9868,7 +9868,7 @@
                   "line-join": "round",
                 },
                 paint: {
-                  "line-color": "#fc46aa",
+                  "line-color": "#0092ff",
                   "line-width": 12,
                 },
                 filter: [
@@ -9889,13 +9889,13 @@
                   "line-color": {
                     property: "congestion",
                     type: "categorical",
-                    default: "#fc46aa",
+                    default: "#0092ff",
                     stops: [
-                      ["unknown", "#fc46aa"],
-                      ["low", "#fc46aa"],
-                      ["moderate", "#fc46aa"],
-                      ["heavy", "#fc46aa"],
-                      ["severe", "#8fc46aa"],
+                      ["unknown", "#0092ff"],
+                      ["low", "#0092ff"],
+                      ["moderate", "#0092ff"],
+                      ["heavy", "#0092ff"],
+                      ["severe", "#0092ff"],
                     ],
                   },
                   "line-width": 7,
@@ -9922,7 +9922,7 @@
                 source: "directions",
                 paint: {
                   "circle-radius": 6,
-                  "circle-color": "#fc46aa",
+                  "circle-color": "#0092ff",
                 },
                 filter: ["all", ["in", "$type", "Point"], ["in", "id", "hover"]],
               },
