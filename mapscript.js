@@ -9946,7 +9946,7 @@
                 source: "directions",
                 paint: {
                   "circle-radius": 6,
-                  "circle-color": "#fc46aa",
+                  "circle-color": "#0092ff",
                 },
                 filter: [
                   "all",
@@ -9960,7 +9960,7 @@
                 source: "directions",
                 paint: {
                   "circle-radius": 10,
-                  "circle-color": "#fc46aa",
+                  "circle-color": "#0092ff",
                 },
                 filter: [
                   "all",
@@ -9978,7 +9978,7 @@
                   "text-size": 12,
                 },
                 paint: {
-                  "text-color": "#fc46aa",
+                  "text-color": "#0092ff",
                 },
                 filter: [
                   "all",
@@ -9992,7 +9992,7 @@
                 source: "directions",
                 paint: {
                   "circle-radius": 18,
-                  "circle-color": "#fc46aa",
+                  "circle-color": "#0092ff",
                 },
                 filter: [
                   "all",
@@ -10010,7 +10010,7 @@
                   "text-size": 12,
                 },
                 paint: {
-                  "text-color": "#fc46aa",
+                  "text-color": "#0092ff",
                 },
                 filter: [
                   "all",
